@@ -8,4 +8,4 @@ backbone: 1.3.3
 
 Some browsers don't support fetch yet so when you are trying to load pnp.js into your browser, make sure you have these JavaScript libraries loaded for pnpjs:
 
-!(https://github.com/jbhaktul/backbonejs-starter/reference/pnpjs.png)
+!(backbone-starter/reference/pnpjs.png)
