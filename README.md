@@ -8,4 +8,4 @@ backbone: 1.3.3
 
 When you are trying to load pnp into your browser, make sure you have these JavaScript libraries loaded for pnpjs:
 
-![alt text](https://github.com/jbhaktul/backbonejs-starter/reference/pnpjs.png)
+(https://github.com/jbhaktul/backbonejs-starter/reference/pnpjs.png)
