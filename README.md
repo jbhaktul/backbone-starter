@@ -6,6 +6,6 @@ jquery: 3.2.1
 underscore: 1.8.3  
 backbone: 1.3.3  
 
-When you are trying to load pnp into your browser, make sure you have these JavaScript libraries loaded for pnpjs:
+Some browsers don't support fetch yet so when you are trying to load pnp.js into your browser, make sure you have these JavaScript libraries loaded for pnpjs:
 
-(https://github.com/jbhaktul/backbonejs-starter/reference/pnpjs.png)
+![alt text](https://github.com/jbhaktul/backbonejs-starter/reference/pnpjs.png "Files to load pnp.js")
