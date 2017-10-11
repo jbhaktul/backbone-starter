@@ -14,4 +14,4 @@ Some browsers don't support fetch yet so when you are trying to load pnp.js into
 
 This project creates an admin page for a SharePoint SPA application:
 
-![SPA Admin Page](https://github.com/jbhaktul/backbone-starter/blob/master/reference/sb-admin.png)
+![SPA Admin Page](https://github.com/jbhaktul/backbone-starter/blob/master/reference/sb-admin.jpg)
